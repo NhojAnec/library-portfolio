@@ -34,3 +34,13 @@ PHP 8 (PDO), MySQL / MariaDB, jQuery, Bootstrap 3, DataTables.
 ## Credits
 
 The original layout and starting code come from the Online Library Management System template by [ITSOURCECODE](https://itsourcecode.com/), which is credited in the site's footer.
+
+## Author's note
+
+Oh hey
+Just wanted to add a note that I made this website as a part of Web Development class' final project sometime during 2024
+It was a group project consists of 3-4 people? I really can't remember that much but most of the works are done by me + 1-2 other member(s) who stayed all night or two working alongside me bc it's the deadline week
+Maybe I really don't remember bc of that lol
+Anyways, during that time most of our AI use were free chatGPT just for CSS cuz literally no one in our group knows CSS lmao
+The reason Claude is in the repo credit is bc I just managed to find this folder of this...thing so I whip them to put everything inside GitHub Docs and repo so yeah kinda neat huh?
+Welp, love ya' all, if any of you even read or see this
