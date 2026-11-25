@@ -37,7 +37,7 @@ The original layout and starting code come from the Online Library Management Sy
 
 ## Author's note
 
-Oh hey
+Oh hey.
 Just wanted to add a note that I made this website as a part of Web Development class' final project sometime during 2024.
 It was a group project consists of 3-4 people? I really can't remember that much but most of the works are done by me + 1-2 other member(s) who stayed all night or two working alongside me bc it's the deadline week.
 Maybe I really don't remember bc of that lol.
